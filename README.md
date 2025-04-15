@@ -5,9 +5,11 @@
 ## 1、项目介绍
 
 本医院管理系统管理员功能，个人中心，医生管理，护士管理，病床类别管理，药品类别管理，科室信息管理，内部论坛管理，系统管理。医生功能，个人中心，病床管理，药房管理，病人信息管理，药方信息管理。护士功能修改个人中心，查看病床管理，查看药房管理，查看病人信息管理，查看药方信息管理。因而具有一定的实用性。
-![3](https://javabscode.github.io/picx-images-hosting/1131-计算机毕业设计-基于springboot的医院管理系统-附源码+数据库+论文+开题+需求文档-包远程安装调试运行-其他截图/3.webp)
-![2](https://javabscode.github.io/picx-images-hosting/1131-计算机毕业设计-基于springboot的医院管理系统-附源码+数据库+论文+开题+需求文档-包远程安装调试运行-其他截图/2.webp)
+
 ![1](https://javabscode.github.io/picx-images-hosting/1131-计算机毕业设计-基于springboot的医院管理系统-附源码+数据库+论文+开题+需求文档-包远程安装调试运行-其他截图/1.webp)
+
+![2](https://javabscode.github.io/picx-images-hosting/1131-计算机毕业设计-基于springboot的医院管理系统-附源码+数据库+论文+开题+需求文档-包远程安装调试运行-其他截图/2.webp)
+
 
 
 ## 2、技术框架
